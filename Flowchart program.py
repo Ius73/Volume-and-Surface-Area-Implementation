@@ -19,8 +19,9 @@ def check_loop_no():
     con = str(input("do you want to continue? Y/N: "))
     con = con.upper()
     return con
-n = 0
+
 while 1 < 2:
+    n = 0
     letters = ['C','S','E']
     print(" C for Cube")
     print(" S for Sphere")
