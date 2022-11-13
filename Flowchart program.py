@@ -1,4 +1,3 @@
-
 def Cube_Volume_Area(x,y,z):
     result1 = x * y * z
     result2 = ((x * y) * 2) + ((x * z) * 2) + ((z * y) * 2)
