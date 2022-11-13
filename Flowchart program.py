@@ -20,8 +20,8 @@ def check_loop_no():
     con = con.upper()
     return con
 
+n = 0
 while 1 < 2:
-    n = 0
     letters = ['C','S','E']
     print(" C for Cube")
     print(" S for Sphere")
@@ -43,6 +43,7 @@ while 1 < 2:
     if n == 3:
         c = check_loop_no()
         if c == "Y":
+            n = 0
             continue
         if c == "N":
             break
