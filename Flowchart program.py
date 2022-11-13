@@ -40,7 +40,7 @@ while 1 < 2:
         n = n + 1
     if user_shape == letters[2]:
         break
-    if n == 1:
+    if n == 3:
         c = check_loop_no()
         if c == "Y":
             continue
