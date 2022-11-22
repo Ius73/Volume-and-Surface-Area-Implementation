@@ -1,0 +1,8 @@
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\bin\Debug\Volume and Surface Area Implementation.exe.config
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\bin\Debug\Volume and Surface Area Implementation.exe
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\bin\Debug\Volume and Surface Area Implementation.pdb
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\obj\Debug\Volume and Surface Area Implementation.csproj.AssemblyReference.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\obj\Debug\Volume and Surface Area Implementation.csproj.SuggestedBindingRedirects.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\obj\Debug\Volume and Surface Area Implementation.csproj.CoreCompileInputs.cache
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\obj\Debug\Volume and Surface Area Implementation.exe
+C:\Users\iusti\Documents\C#\Programs.cs\Various\Volume and Surface Area Implementation\Volume and Surface Area Implementation\obj\Debug\Volume and Surface Area Implementation.pdb
